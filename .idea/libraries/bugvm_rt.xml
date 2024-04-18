@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bugvm.rt" type="repository">
+    <properties maven-id="com.bugvm:bugvm-rt:1.2.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bugvm/bugvm-rt/1.2.9/bugvm-rt-1.2.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.2.40/kotlin-stdlib-jdk8-1.2.40.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.2.40/kotlin-stdlib-1.2.40.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.2.40/kotlin-stdlib-jdk7-1.2.40.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
